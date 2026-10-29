@@ -10,4 +10,14 @@
         <xhtml:link rel="alternate" hreflang="ru" href="https://hapisrust.github.io/ru/"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://hapisrust.github.io/en/"/>
     </url>
+    <url>
+        <loc>https://hapisrust.github.io/ru/rules/</loc>
+        <xhtml:link rel="alternate" hreflang="ru" href="https://hapisrust.github.io/ru/rules/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://hapisrust.github.io/en/rules/"/>
+    </url>
+    <url>
+        <loc>https://hapisrust.github.io/en/rules/</loc>
+        <xhtml:link rel="alternate" hreflang="ru" href="https://hapisrust.github.io/ru/rules/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://hapisrust.github.io/en/rules/"/>
+    </url>
 </urlset>
